@@ -1,0 +1,29 @@
+{
+  "name": "express-mariadb-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirtandgrass/express-mariadb-session.git"
+  },
+  "keywords": [
+    "express",
+    "session"
+  ],
+  "author": "Lucas Stephenson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dirtandgrass/express-mariadb-session/issues"
+  },
+  "homepage": "https://github.com/dirtandgrass/express-mariadb-session#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express-session": "^1.16.1",
+    "mariadb": "^2.0.3",
+    "underscore": "^1.9.1"
+  }
+}
